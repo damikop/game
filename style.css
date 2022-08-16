@@ -1,0 +1,56 @@
+/* body{
+    background-image:url("https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg");
+    background-size: 500px 200px;
+    background-attachment: fixed;
+    background-color: aliceblue;
+    background-position:top right;
+    background-repeat: no-repeat;
+} */
+.baack{
+    width: 750px;
+    height: 500px;
+    background-size: 800px 500px;
+
+    background-image:url("https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg");
+
+}
+a{
+    font-size: 50px;
+}
+
+a:link{
+    color: red;
+    background-color: red;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: pink;
+}
+
+a:active{
+    color: blue;
+}
+
+
+
+.divka{
+    margin: 20px;
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+.main{
+    display: block;
+    width: 60%;
+    background-color: yellow;
+    height: 200px;
+    padding: 20px;
+    clear: both;
+}
+.second{
+    border: 1px solid #008eaf;
+}
